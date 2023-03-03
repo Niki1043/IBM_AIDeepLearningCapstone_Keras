@@ -29,7 +29,7 @@ Compare it's performance to a ResNet50 pre-trained which was built in other cour
 
 
 # Link to Data Science Capstone Presentation and Jupyter Notebooks
-[Link to Capstone Jupyter Notebooks](https://github.com/Niki1043/IBM_AIDeepLearningCapstone_Keras/blob/main/NPatel_Keras_AIEng%20(2).ipynb)
+[Link to Capstone Jupyter Notebook](https://github.com/Niki1043/IBM_AIDeepLearningCapstone_Keras/blob/main/NPatel_Keras_AIEng%20(2).ipynb)
 
 
 
